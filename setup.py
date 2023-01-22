@@ -15,6 +15,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/shubhammalhotra1708/Topsis-Shubham-102003109",
+    download_url="https://github.com/shubhammalhotra1708/Topsis-Shubham-102003109/archive/refs/tags/v1.0.1.tar.gz",
     author="Shubham Malhotra",
     author_email="shubhammalhotra012@gmail.com",
     license="MIT",

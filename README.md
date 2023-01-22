@@ -2,7 +2,7 @@
 
 Title: **TOPSIS method for multiple-criteria decision making (MCDM)**.
 
-Version: **1.0.7**.
+Version: **1.0.1**.
 
 Author: **Shubham Malhotra**.
 
