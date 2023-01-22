@@ -34,7 +34,7 @@ setup(
             "topsis=Topsis_Shubham_102003019.topsis:main",
         ]
     },
-=======
+
 import pathlib
 from setuptools import setup
 
@@ -69,5 +69,5 @@ setup(
             "topsis=Topsis_Shubham_102003019.topsis:main",
         ]
     },
->>>>>>> 37f1b417c04d3cb15864f13d36919712b7b2a8ec
+
 )
