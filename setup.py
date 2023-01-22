@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pathlib
 from setuptools import setup
 
