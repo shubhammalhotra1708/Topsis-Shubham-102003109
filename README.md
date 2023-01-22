@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TOPSIS
 
 Title: **TOPSIS method for multiple-criteria decision making (MCDM)**.
@@ -98,4 +97,3 @@ Description: **Evaluation of alternatives based on multiple criteria using TOPSI
 <br>
 
 The output file contains columns of input file along with two additional columns having Topsis_score and Rank
->>>>>>> 37f1b417c04d3cb15864f13d36919712b7b2a8ec
